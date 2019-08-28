@@ -1,5 +1,7 @@
 # IVADO/ Mila's Summer Deep Learning School, 4th edition
 ## September 9-13 2019, Montreal
+[![image](https://user-images.githubusercontent.com/18450628/63861998-e911e280-c979-11e9-83f6-49c40e904a22.png)](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
+
 
 Welcome to the IVADO/Mila Deep Learning school! In this repo, you will find all the materials needed for completing the tutorials of the school as well as some supplementary materials.
 
@@ -23,5 +25,3 @@ We will be presenting the tutorials in the format of [jupyter notebooks](http://
 For more information about the deep learning school, visit the [official website.](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
 
 For more information about Mila, visit the [official website.](https://mila.quebec/)
-
-
