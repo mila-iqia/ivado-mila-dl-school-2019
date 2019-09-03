@@ -1,4 +1,4 @@
-# IVADO/Mila's Summer Deep Learning School, 4th edition - September 9-13 2019, Montreal
+# IVADO/Mila's Deep Learning school, 4th edition - September 9-13 2019, Montreal
 [![image](https://user-images.githubusercontent.com/18450628/63861998-e911e280-c979-11e9-83f6-49c40e904a22.png)](https://ivado.ca/en/trainings/schools/deep-learning-school-4th-and-5th-edition/)
 
 ## Welcome!
