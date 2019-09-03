@@ -3,7 +3,7 @@
 
 ## Welcome!
 
-Welcome to the IVADO/Mila Deep Learning school! In this repo, you will find all the materials needed for completing the tutorials of the school as well as some supplementary materials.
+Welcome to the IVADO/Mila Deep Learning school! In this repo, you will find all the material needed for completing the tutorials of the school as well as some supplementary material.
 
 ## Course Structure
 
