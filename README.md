@@ -9,7 +9,7 @@ Welcome to the IVADO/Mila Deep Learning school! In this repo, you will find all 
 
 All lectures are given in-person. Each lecture is followed by a tutorial. These tutorials are complementary to the lectures and apply concepts that have been covered throughout the school.
 
-You will find on this github repo all tutorials in the [tutorials]() folder. Each tutorial will be presented in two formats:
+You will find in this github repo all tutorials in the [tutorials]() folder. Each tutorial will be presented in two formats:
 
 * one `TODO` format, in which templates are provided but code is left out for you to complete;
 * one `Solutions` format where the suggested solutions to the tutorials are presented;
